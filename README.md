@@ -8,3 +8,5 @@ Biggest challenge encountered in this project was laying out the cards in their 
 MY approach to solving these challenges were just to do some research. Looking through the documenation for Tailwind gave an answer in spanning a card into two or more rows which was exactly what I was looking for.... but it wasn't perfect.
 
 If I had more time and knowledge, I probably would test out a two-row spanning Bootstrap grid system as I found a prototype, but now I had to put it to the test. Since I didn't have the Figma file, I couldn't know the exact dimensions for the cards, text, pictures, and rounded borders.
+
+Okay so Tailwind doesn't properly render on GitHub pages. I implore the grader to clone the repo, then in the terminal go type `npm run dev` and follow the local host link that Vite boots up
